@@ -12,7 +12,7 @@
 
 ---
 
-🚀 I'm a MERN stack Developer
+🚀 I'm a MERN stack Developer <br/>
 😄 Ask me about JavaScript, React, Node.js, MongoDB, Express  
 ⚡ Fun fact: I love building UIs with Tailwind CSS
 
