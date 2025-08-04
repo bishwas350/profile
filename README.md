@@ -12,8 +12,7 @@
 
 ---
 
-🚀 I'm currently working on MERN stack projects  
-💻 Currently learning DevOps tools like Docker, Linux, GitHub Actions  
+🚀 I'm a MERN stack Developer
 😄 Ask me about JavaScript, React, Node.js, MongoDB, Express  
 ⚡ Fun fact: I love building UIs with Tailwind CSS
 
@@ -36,8 +35,6 @@
 ### Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
