@@ -1,7 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
 <!--   <img src="https://i.imgur.com/WC1xKNF.gif" alt="banner" /> -->
-  <img src="https://i.imgur.com/WC1xKNF.gif" alt="banner" />
+<!--   <img src="https://i.imgur.com/WC1xKNF.gif" alt="banner" /> -->
+<img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width:70rem; border-radius:10px;" /> 
+
 
 </p>
 
