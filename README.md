@@ -1,6 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
+<!--   <img src="https://i.imgur.com/WC1xKNF.gif" alt="banner" /> -->
   <img src="https://i.imgur.com/WC1xKNF.gif" alt="banner" />
+
 </p>
 
 <h1 align="center">Hi, I'm Hamim Biswas 👋</h1>
